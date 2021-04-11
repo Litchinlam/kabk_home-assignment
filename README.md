@@ -6,6 +6,11 @@ _use google chorem and open in full screen_
 _preview pictures are in html preview.pdf
 
 
+Theme of this 5 html：
+hese html pages aim to introduce myself from a new perspective, it contains three parts: 1) Self-List (a bucket list of what I want to do in the rest of my life); 2) Self_Phone (the other me in iCloud photo album), 3) Self-Print (what my palm lines say me). Through establishing a narrative method of pics & texts description and linkages among different html pages, these different perspectives re-discover who "I" am.
+
+
+
 Page1.html  title_8941_title
 Theme of this Page1.html is about the Time from birth to present
 In this pages including 26s set of data. put the mouse on the numbers,the numbers enlarge.
